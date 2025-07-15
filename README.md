@@ -1,5 +1,9 @@
 # 🧠 DeOldify GAN — Image Colorization with Generative Adversarial Networks
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Model](https://img.shields.io/badge/Model-DeOldify-brightgreen)](https://github.com/jantic/DeOldify)
+[![Type](https://img.shields.io/badge/Type-Image%20Colorization-orange)]()
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Framework](https://img.shields.io/badge/Framework-FastAI%20%2B%20PyTorch-lightgrey)
 ![Model](https://img.shields.io/badge/Model-DeOldify-brightgreen)
@@ -22,11 +26,6 @@
 ![Stars](https://img.shields.io/github/stars/RafaelGallo/GAN_Generative-Adversarial-Network_DeOldify?style=social)
 
 # ![DeOldify Logo](https://github.com/RafaelGallo/GAN_Generative-Adversarial-Network_DeOldify/blob/main/img/log.png?raw=true)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
-[![Model](https://img.shields.io/badge/Model-DeOldify-brightgreen)](https://github.com/jantic/DeOldify)
-[![Type](https://img.shields.io/badge/Type-Image%20Colorization-orange)]()
 
 ## 📌 Project Overview
 
