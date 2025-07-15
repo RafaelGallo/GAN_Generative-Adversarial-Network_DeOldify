@@ -93,19 +93,30 @@ pip install -r requirements.txt
 
 ### Before and After
 
-| Colorized (DeOldify)   |
-| ---------------------- | 
-|<img width="482" height="638" alt="image" src="https://github.com/user-attachments/assets/4c26ccc0-3c53-406d-9962-3756740c3f77" />|
-|<img width="640" height="348" alt="image" src="https://github.com/user-attachments/assets/f58f7fc7-bbee-4800-a83c-63749a96d0c6" />|
-|<img width="640" height="348" alt="image" src="https://github.com/user-attachments/assets/4481962d-41da-4e1c-9cff-e826ae79230c" />|
-|<img width="640" height="348" alt="image" src="https://github.com/user-attachments/assets/f462bd44-c392-48f3-aa3c-7f97b6361aba" />|
-|<img width="430" height="636" alt="image" src="https://github.com/user-attachments/assets/c3380863-9879-4d99-8cd4-36f082f9a491" />|
-|<img width="640" height="348" alt="image" src="https://github.com/user-attachments/assets/a690c839-5121-47ba-ba1c-c77e526bc696" />|
-|<img width="640" height="348" alt="image" src="https://github.com/user-attachments/assets/321b4d7d-3d62-405a-936d-136742596da0" />|
-|<img width="436" height="644" alt="image" src="https://github.com/user-attachments/assets/6224b73f-37a4-4c53-b095-491ec34b1909" />|
-|<img width="640" height="425" alt="image" src="https://github.com/user-attachments/assets/676caa0d-9099-40cc-af76-8b5c7da65e06" />|
+<img width="982" height="691" alt="image" src="https://github.com/user-attachments/assets/435b6cd5-2066-42a6-a54f-5e5b56206239" />
+<img width="957" height="691" alt="image" src="https://github.com/user-attachments/assets/da7f723c-e824-4676-a41c-4d58fb0bc2ee" />
+<img width="927" height="691" alt="image" src="https://github.com/user-attachments/assets/ba33f64f-fe3d-425d-9d14-64fcc96033da" />
+<img width="989" height="532" alt="image" src="https://github.com/user-attachments/assets/80d63d0b-1d1d-42d4-87b1-7f8c7dc866cd" />
+<img width="989" height="500" alt="image" src="https://github.com/user-attachments/assets/32850cc7-f9a1-42ae-b474-7f73f4d9fc3c" />
+<img width="989" height="502" alt="image" src="https://github.com/user-attachments/assets/d6f60a4b-166f-44c1-9377-278262d0aad1" />
+<img width="989" height="502" alt="image" src="https://github.com/user-attachments/assets/38ec7fbb-04cd-45f6-b642-8c2a48121a7a" />
+<img width="918" height="691" alt="image" src="https://github.com/user-attachments/assets/7b926860-fad4-4bcc-9c6b-e95cbeabb020" />
+<img width="989" height="502" alt="image" src="https://github.com/user-attachments/assets/d2d46e45-ce34-4b78-abee-8fa46c247ce2" />
 
+## 🖼️ Image Credits (APA Style)
 
+The original black-and-white images used in this project were sourced from public and educational websites for research and demonstrative purposes only. Below are the citations in APA format:
+
+1. Folha de S.Paulo. (2020, October). *Quem foi Tarsila do Amaral?* \[Web story]. Retrieved July 15, 2025, from [https://www1.folha.uol.com.br/webstories/cultura/2020/10/quem-foi-tarsila-do-amaral/](https://www1.folha.uol.com.br/webstories/cultura/2020/10/quem-foi-tarsila-do-amaral/)
+
+2. Século XX Wiki. (n.d.). *Pedro II do Brasil*. Fandom. Retrieved July 15, 2025, from
+[https://seculo-xx.fandom.com/pt-br/wiki/Pedro\_II\_do\_Brasil](https://seculo-xx.fandom.com/pt-br/wiki/Pedro_II_do_Brasil)
+
+4. UOL Universa. (2019, April 6). *Por que Tarsila do Amaral foi uma mulher à frente do seu tempo?* Retrieved July 15, 2025, from [https://www.uol.com.br/universa/noticias/redacao/2019/04/06/por-que-tarsila-do-amaral-foi-uma-mulher-a-frente-do-seu-tempo.htm](https://www.uol.com.br/universa/noticias/redacao/2019/04/06/por-que-tarsila-do-amaral-foi-uma-mulher-a-frente-do-seu-tempo.htm)
+
+5. BOL UOL. (2016, January 23). *São Paulo em 100 imagens do passado* (Photo 1). Retrieved July 15, 2025, from [https://www.bol.uol.com.br/listas/2016/01/23/sao-paulo-em-100-imagens-do-passado.htm?mode=list\&foto=1](https://www.bol.uol.com.br/listas/2016/01/23/sao-paulo-em-100-imagens-do-passado.htm?mode=list&foto=1)
+
+> All rights belong to the original authors and publishers. The use of these images in this project is strictly non-commercial and educational.
 
 ## 🧪 Inference
 
@@ -148,9 +159,13 @@ colorizer.plot_transformed_image(
 
 ## 👨‍💻 Author
 
-**Rafael Gallo**
-Data Scientist | Deep Learning Researcher
-📍 Brazil | 🌐 [LinkedIn](https://www.linkedin.com/in/rafaelgallo/) | 📂 [GitHub](https://github.com/RafaelGallo)
+**Rafael Gallo - Data Scientist**
+
+📍 Brazil 
+
+🌐 [LinkedIn](https://www.linkedin.com/in/rafael-g-986a73150/) 
+
+📂 [GitHub](https://github.com/RafaelGallo)
 
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
